@@ -1,4 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=안녕하세요! 👋😃&fontSize=90)
+### ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=안녕하세요👋😃&fontSize=30&animation=twinkling&fontAlignY=35&fontAlign=70&rotate=15&stroke=3561F1&strokeWidth=1&fontColor=FFFFFF)
 열심히 배우는 중입니다 📘📕📙 <br>
 많은 도움과 조언 감사히 받겠습니다 📝 <br>
 잘 부탁드리겠습니다 🙏 <br>
@@ -6,6 +6,8 @@
 흥미있는것 🎧🎮🍖💪
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjunsgit&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongjunsgit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **yeongjunsgit/yeongjunsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
