@@ -5,6 +5,8 @@
 <Br>
 흥미있는것 🎧🎮🍖💪
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjunsgit&show_icons=true&theme=radical)
+
 <!--
 **yeongjunsgit/yeongjunsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
