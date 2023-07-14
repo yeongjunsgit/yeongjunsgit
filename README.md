@@ -1,4 +1,9 @@
-### Hi there 👋
+### 안녕하세요! 👋😃
+열심히 배우는 중입니다 📘📕📙
+많은 도움과 조언 감사히 받겠습니다 📝 
+잘 부탁드리겠습니다 🙏
+
+흥미있는것 🎧🎮🍖💪
 
 <!--
 **yeongjunsgit/yeongjunsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
